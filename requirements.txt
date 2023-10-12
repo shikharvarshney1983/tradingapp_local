@@ -1,0 +1,9 @@
+flask
+yfinance
+Ta-Lib
+pandas
+pandas-ta
+python-dateutil
+nsepython
+tabulate
+tradingview_ta

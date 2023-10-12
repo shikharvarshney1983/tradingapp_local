@@ -1,0 +1,11 @@
+Python to be used --
+C:\Users\shikh\AppData\Local\Programs\Python\Python310\python 
+
+initiate flask server --
+C:\Users\shikh\AppData\Local\Programs\Python\Python310\python -m flask run --debug
+
+run requirement file --
+C:\Users\shikh\AppData\Local\Programs\Python\Python310\python -m pip install -r requirements.txt
+
+sqlite addition to PATH
+set PATH=C:\Users\shikh\StkCode\sqlite;%PATH%

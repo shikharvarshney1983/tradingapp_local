@@ -1,0 +1,4 @@
+sqlite3 app.db 
+
+-- To get the schema details
+.schema
