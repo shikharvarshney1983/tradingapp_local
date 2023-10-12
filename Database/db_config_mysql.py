@@ -2,8 +2,8 @@ import mysql.connector
 
 db_param = {
     "host": "localhost",
-    "user": "root",
-    "password": "Sunn1@34"
+    "user": "qwert",
+    "password": "qwerty"
 }
 
 def create_connection(db_param):
@@ -16,8 +16,8 @@ def create_connection(db_param):
     try:
         conn = mydb = mysql.connector.connect(
             host="localhost",
-            user="root",
-            password="Sunn1@34"
+            user="qwert",
+            password="qwerty"
 )
         return conn
     except :
